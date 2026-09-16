@@ -1,5 +1,4 @@
-# shadow-fox
-ShadowFox Python Programming & Data Analysis Tasks
+# ShadowFox Python Programming & Data Analysis Tasks
 
 Overview
 
